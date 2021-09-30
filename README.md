@@ -1,12 +1,12 @@
 <h1 align="center">Hello World 👾</h1>
 
-<h3 align="center">Hey there 👋, I'm roee. A fullstack developer and a team lead.</h3>
+<h3 align="center">Hey there 👋, I'm roee.</h3>
 
 <br>
 
-- 🔭 I’m currently working at [Reason](https://github.com/ReasonSoftware).
+- 🔭 I’m currently working at [Reason](https://github.com/ReasonSoftware) as a fullstack developer and a team lead.
 
-- 🌱 I’m helping the comunity grow by **promoting tech talks**
+- 🌱 I’m helping the comunity grow by promoting tech talks
 
 - 👨‍💻 My current stack:
 
