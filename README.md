@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 👾</h1>
 
-<h3 align="center">Hey there 👋, I'm roee, A fullstack developer and a team lead.</h3>
+<h3 align="center">Hey there 👋, I'm roee. A fullstack developer and a team lead.</h3>
 
 <br>
 
