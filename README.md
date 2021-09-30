@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 👾</h1>
 
-<h3 align="center">I'm roee, A passionate fullstack developer and team lead.</h3>
+<h3 align="center">Hey there 👋, I'm roee, A fullstack developer and a team lead.</h3>
 
 <br>
 
@@ -23,7 +23,7 @@
 
 <br> 
 
-- 🤯 Other Languages, Frameworks and Tools: (at least some of it 😉)
+- 👨‍🏫 Other Languages, Frameworks and Tools:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>&nbsp;
@@ -56,9 +56,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp;
 
-<br>
 
-- 👨‍💻 on my spare time I'm currently working on a project to help studying Japanese
+- ☕️ on my spare time I'm currently working on a project to help studying Japanese
 
 - 🎤 &nbsp;I speak: Hebrew, English and japanese 🇮🇱🇺🇸🇯🇵
 
